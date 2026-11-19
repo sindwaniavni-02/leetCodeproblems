@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/sindwaniavni-02/leetCodeproblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sindwaniavni-02/leetCodeproblems/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sindwaniavni-02/leetCodeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sindwaniavni-02/leetCodeproblems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
